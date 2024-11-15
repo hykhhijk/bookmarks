@@ -12,10 +12,16 @@
 - [셀렉스스타](https://page.stibee.com/archives/212479)
 - [Hacker News, 진짜들이 보는곳](https://news.ycombinator.com/)
 - [클로바](https://clova.ai/tech-blog)
-- [스포카)(https://spoqa.github.io/)
+- [스포카](https://spoqa.github.io/)
 - [스캐터랩스](https://www.skelterlabs.com/blog)
 - [네이버 최신 논문](https://naver-career.gitbook.io/en/publications/all)
 
 
 # AI 서비스
 - [AI 모음 사이트](https://aithink.kr/)
+
+# RAG
+- [RAG method cheatsheet](https://miro.com/app/board/uXjVLbpeOd4=/?utm_source=pytorchkr&ref=pytorchkr)
+- [AutoRAG] (https://velog.io/@autorag/posts)
+- [allganize/RAG_benchmark_dataset](https://huggingface.co/datasets/allganize/RAG-Evaluation-Dataset-KO)
+- [Pinecone faiss docuemnt](https://www.pinecone.io/learn/series/faiss/faiss-tutorial/)
