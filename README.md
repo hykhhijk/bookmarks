@@ -1,7 +1,3 @@
-# bookmarks
-북마크 정리용 레포
-
-
 # Lecture & code example
 |링크|설명|
 |------|---|
@@ -9,7 +5,7 @@
 |[Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)|적당한 정도로 추상화된 NLP 강의|
 
 
-# Trend following(기술블로그, 아티클 등)
+# Trend following(기술블로그, 레포등)
 |링크|설명|
 |------|---|
 |[TrendShift](https://trendshift.io/?trending-range=1)|트렌디한 깃허브 레포 모음|
@@ -17,6 +13,7 @@
 |[요즘IT](https://yozm.wishket.com/magazine/)|여러 도메인 개발자의 글 모음처|
 |[Hacker News](https://news.ycombinator.com/)|빼놓으면 허전할듯|
 |[GeekNwes](https://news.hada.io/)|긱뉴스|
+|[Dev-Event repo](https://github.com/brave-people/Dev-Event)|개발자 이벤트 레포|
 
 # AI 서비스
 |링크|설명|
