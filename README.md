@@ -11,9 +11,11 @@
 |[TrendShift](https://trendshift.io/?trending-range=1)|트렌디한 깃허브 레포 모음|
 |[PytorchKR](https://discuss.pytorch.kr/c/news/14)|여러 뉴스레터에서 트렌디한 글들을 잘 모아줌|
 |[요즘IT](https://yozm.wishket.com/magazine/)|여러 도메인 개발자의 글 모음처|
+|[데보션](https://devocean.sk.com/blog/)|요즘 IT보다 조금 더 기술적, 높은 퀄리티|
 |[Hacker News](https://news.ycombinator.com/)|빼놓으면 허전할듯|
-|[GeekNwes](https://news.hada.io/)|긱뉴스|
+|[GeekNews](https://news.hada.io/)|긱뉴스|
 |[Dev-Event repo](https://github.com/brave-people/Dev-Event)|개발자 이벤트 레포|
+
 
 # AI 서비스
 |링크|설명|
