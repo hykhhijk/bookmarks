@@ -3,6 +3,8 @@
 |------|---|
 |[LLM 클론코딩(from karpathy)](https://karpathy.ai/zero-to-hero.html?utm_source=pytorchkr&ref=pytorchkr)|파이썬&넘파이만으로 LLM scratch 구현. 물고기 책의 최상위 버전 느낌|
 |[Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)|적당한 정도로 추상화된 NLP 강의|
+|[리눅스 커맨드](https://wikidocs.net/book/11567)|리눅스 개념, 커맨드 위키닥스|
+
 
 
 # Trend following(기술블로그, 레포등)
@@ -21,6 +23,8 @@
 |링크|설명|
 |------|---|
 |[LLM api analysis](https://artificialanalysis.ai/)|LLM 서비스 성능, 가격 벤치마킹|
+|[VectorDB benchmark](https://www.superlinked.com/vector-db-comparison)|벡터DB 서비스 벤치마킹|
+
 
 # Technical articles
 |링크|설명|분류|
