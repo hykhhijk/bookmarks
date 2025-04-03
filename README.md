@@ -17,6 +17,7 @@
 |[Hacker News](https://news.ycombinator.com/)|빼놓으면 허전할듯|
 |[GeekNews](https://news.hada.io/)|긱뉴스|
 |[Dev-Event repo](https://github.com/brave-people/Dev-Event)|개발자 이벤트 레포|
+|[NLP-PaperNews](https://github.com/chanmuzi/NLP-Paper-News)|AI 기술, 논문 트렌드 정리|
 
 
 # AI 서비스
