@@ -19,6 +19,8 @@
 |[GeekNews](https://news.hada.io/)|긱뉴스|
 |[Dev-Event repo](https://github.com/brave-people/Dev-Event)|개발자 이벤트 레포|
 |[NLP-PaperNews](https://github.com/chanmuzi/NLP-Paper-News)|AI 기술, 논문 트렌드 정리|
+|[Velopers](https://www.velopers.kr/)|다양한 기술 블로그 모음|
+
 
 
 # AI 서비스
@@ -27,6 +29,10 @@
 |[LLM api analysis](https://artificialanalysis.ai/)|LLM 서비스 성능, 가격 벤치마킹|
 |[VectorDB benchmark](https://www.superlinked.com/vector-db-comparison)|벡터DB 서비스 벤치마킹|
 |[AI paper Agent](https://paperfinder.allen.ai/chat)|논문 검색 Agent 서비스|
+|[한국어 Huggingface leaderboard](https://llm-explorer.com/list/?tag=Ko)|허깅페이스 LLM에 한국어만 검색한 결과와 동일 근데 조금 보기 편한|
+|[MTEB leaderboard](https://huggingface.co/spaces/mteb/leaderboard)|허깅페이스 MTEB space|
+
+
 
 
 
@@ -36,6 +42,8 @@
 |[Training SBERT](https://huggingface.co/blog/how-to-train-sentence-transformers)|Sentence Transformers finetuning example(특히 데이터 구성쪽이 잘 나와있음)|RAG,IR|
 |[Pinecone document](https://www.pinecone.io/learn/)|파인콘 강의 모음, ML, RAG, service등 vectorDB 관련 기술|RAG, IR|
 |[RAG Guidebook](https://sigridjin.medium.com/rag-%EC%84%B8%EC%83%81%EC%9D%84-%ED%97%A4%EC%97%84%EC%B9%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%B6%81-3e90f515d800)|RAG 개론|RAG, Reranking|
+|[Anthropic agents](https://www.anthropic.com/engineering/built-multi-agent-research-system?utm_source=alphasignal)|Anthropic Agent 인사이트|Agent, Prompting|
+
 
 
 # 글 저장소
