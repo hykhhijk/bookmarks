@@ -28,7 +28,7 @@
 |링크|설명|
 |------|---|
 |[LLM api analysis](https://artificialanalysis.ai/)|LLM 서비스 성능, 가격 벤치마킹|
-|[LLM API 모음](https://models.dev/)|가격, 기능 정도만 체크 가능|
+|[LLM API 모음(models.dev)](https://models.dev/)|가격, 기능 정도만 체크 가능|
 |[VectorDB benchmark](https://www.superlinked.com/vector-db-comparison)|벡터DB 서비스 벤치마킹|
 |[AI paper Agent](https://paperfinder.allen.ai/chat)|논문 검색 Agent 서비스|
 |[한국어 Huggingface leaderboard](https://llm-explorer.com/list/?tag=Ko)|허깅페이스 LLM에 한국어만 검색한 결과와 동일 근데 조금 보기 편한|
