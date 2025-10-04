@@ -34,6 +34,8 @@
 |[한국어 Huggingface leaderboard](https://llm-explorer.com/list/?tag=Ko)|허깅페이스 LLM에 한국어만 검색한 결과와 동일 근데 조금 보기 편한|
 |[MTEB leaderboard](https://huggingface.co/spaces/mteb/leaderboard)|허깅페이스 MTEB space|
 |[오픈소스 LLM tools(Chip Huyen)](https://huyenchip.com/llama-police)|오픈소스 LLM application following best 1|
+|[LLM API 모음(model.dev)](https://models.dev/)|비용, Reasoning, Toolcalling에 적용여부 같은 기능이 정리되어 있음|
+|[LLM 벤치마킹 서비스(opencompass)](https://opencompass.org.cn/home)|중국 사이트, VLM 벤치마크가 잘되어있음|
 
 
 
@@ -47,6 +49,7 @@
 |[Pinecone document](https://www.pinecone.io/learn/)|파인콘 강의 모음, ML, RAG, service등 vectorDB 관련 기술|RAG, IR|
 |[RAG Guidebook](https://sigridjin.medium.com/rag-%EC%84%B8%EC%83%81%EC%9D%84-%ED%97%A4%EC%97%84%EC%B9%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%B6%81-3e90f515d800)|RAG 개론|RAG, Reranking|
 |[Anthropic agents](https://www.anthropic.com/engineering/built-multi-agent-research-system?utm_source=alphasignal)|Anthropic Agent 인사이트|Agent, Prompting|
+
 
 
 
