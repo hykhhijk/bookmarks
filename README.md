@@ -21,7 +21,7 @@
 |[NLP-PaperNews](https://github.com/chanmuzi/NLP-Paper-News)|AI 기술, 논문 트렌드 정리|
 |[Velopers](https://www.velopers.kr/)|다양한 기술 블로그 모음|
 |[크라우드 웍스 블로그](https://medium.com/@cwp2)|개인적으로 국내 AI SI 기업 중 가장 적당한 깊이|
-
+|[온세상 북마크 모음](https://github.com/hyunjun/bookmarks)|정체가 뭐지 싶은 온세상 북마크 정리 레포|
 
 
 # AI 서비스 모음
@@ -36,8 +36,6 @@
 |[오픈소스 LLM tools(Chip Huyen)](https://huyenchip.com/llama-police)|오픈소스 LLM application following best 1|
 |[LLM API 모음(model.dev)](https://models.dev/)|비용, Reasoning, Toolcalling에 적용여부 같은 기능이 정리되어 있음|
 |[LLM 벤치마킹 서비스(opencompass)](https://opencompass.org.cn/home)|중국 사이트, VLM 벤치마크가 잘되어있음|
-
-
 
 
 
