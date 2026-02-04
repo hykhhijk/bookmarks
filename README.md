@@ -22,6 +22,7 @@
 |[Velopers](https://www.velopers.kr/)|다양한 기술 블로그 모음|
 |[크라우드 웍스 블로그](https://medium.com/@cwp2)|개인적으로 국내 AI SI 기업 중 가장 적당한 깊이|
 |[온세상 북마크 모음](https://github.com/hyunjun/bookmarks)|정체가 뭐지 싶은 온세상 북마크 정리 레포|
+|[잡코리아 기술블로그](https://techblog.jobkorea.co.kr/)|Agent 관련 글쓰는 사람은 분명 서베이 논문 쓰면서 행복했을거임|
 
 
 # AI 서비스 모음
