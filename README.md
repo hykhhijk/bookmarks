@@ -3,26 +3,30 @@
 |------|---|
 |[LLM 클론코딩(from karpathy)](https://karpathy.ai/zero-to-hero.html?utm_source=pytorchkr&ref=pytorchkr)|파이썬&넘파이만으로 LLM scratch 구현. 물고기 책의 최상위 버전 느낌|
 |[Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)|적당한 정도로 추상화된 NLP 강의|
+|[CS231N](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)|Vision 스탠포드 강의(강추)|
+|[CS224N](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)|NLP 스탠포드 강의|
+|[CS229N](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)|ML 개론 스탠포드 강의|
 |[리눅스 커맨드](https://wikidocs.net/book/11567)|리눅스 개념, 커맨드 위키닥스|
 |[깃 실습](https://learngitbranching.js.org/?locale=ko)|깃 실습용 사이트|
 
 
 
 # Trend following(기술블로그, 레포등)
-|링크|설명|
-|------|---|
-|[TrendShift](https://trendshift.io/?trending-range=1)|트렌디한 깃허브 레포 모음|
-|[PytorchKR](https://discuss.pytorch.kr/c/news/14)|여러 뉴스레터에서 트렌디한 글들을 잘 모아줌|
-|[요즘IT](https://yozm.wishket.com/magazine/)|여러 도메인 개발자의 글 모음처|
-|[데보션](https://devocean.sk.com/blog/)|요즘 IT보다 조금 더 기술적, 높은 퀄리티|
-|[Hacker News](https://news.ycombinator.com/)|빼놓으면 허전할듯|
-|[GeekNews](https://news.hada.io/)|긱뉴스|
-|[Dev-Event repo](https://github.com/brave-people/Dev-Event)|개발자 이벤트 레포|
-|[NLP-PaperNews](https://github.com/chanmuzi/NLP-Paper-News)|AI 기술, 논문 트렌드 정리|
-|[Velopers](https://www.velopers.kr/)|다양한 기술 블로그 모음|
-|[크라우드 웍스 블로그](https://medium.com/@cwp2)|개인적으로 국내 AI SI 기업 중 가장 적당한 깊이|
-|[온세상 북마크 모음](https://github.com/hyunjun/bookmarks)|정체가 뭐지 싶은 온세상 북마크 정리 레포|
-|[잡코리아 기술블로그](https://techblog.jobkorea.co.kr/)|Agent 관련 글쓰는 사람은 분명 서베이 논문 쓰면서 행복했을거임|
+| 링크 | type | 설명 |
+| --- | --- | --- |
+| [PytorchKR](https://discuss.pytorch.kr/c/news/14) | 뉴스/커뮤니티 | 여러 뉴스레터에서 트렌디한 글들을 잘 모아줌 |
+| [요즘IT](https://yozm.wishket.com/magazine/) | 뉴스/커뮤니티 | 여러 도메인 개발자의 글 모음처 |
+| [Hacker News](https://news.ycombinator.com/) | 뉴스/커뮤니티 | 빼놓으면 허전할듯 |
+| [GeekNews](https://news.hada.io/) | 뉴스/커뮤니티 | 긱뉴스 |
+| [Velopers](https://www.velopers.kr/) | 뉴스/커뮤니티 | 다양한 기술 블로그 모음 |
+| [Dev-Event repo](https://github.com/brave-people/Dev-Event) | 깃허브 레포 | 개발자 이벤트 레포 |
+| [NLP-PaperNews](https://github.com/chanmuzi/NLP-Paper-News) | 깃허브 레포 | AI 기술, 논문 트렌드 정리 |
+| [TrendShift](https://trendshift.io/?trending-range=1) | 깃허브 레포 | 트렌디한 깃허브 레포 모음 |
+| [온세상 북마크 모음](https://github.com/hyunjun/bookmarks) | 깃허브 레포 | 정체가 뭐지 싶은 온세상 북마크 정리 레포 |
+| [데보션](https://devocean.sk.com/blog/) | 기업기술블로그 | 요즘 IT보다 조금 더 기술적, 높은 퀄리티 |
+| [크라우드 웍스 블로그](https://medium.com/@cwp2) | 기업기술블로그 | 개인적으로 국내 AI SI 기업 중 가장 적당한 깊이 |
+| [잡코리아 기술블로그](https://techblog.jobkorea.co.kr/) | 기업기술블로그 | Agent 관련 글이 서베이 수준 |
+| [고퀄리티 개발컬텐츠](https://github.com/Integerous/goQuality-dev-contents?tab=readme-ov-file) | 깃허브 레포 | 한국어 최대 기술 아카이브? 현재 업데이트는 안됨 |
 
 
 # AI 서비스 모음
