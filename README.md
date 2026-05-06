@@ -25,7 +25,7 @@
 | [온세상 북마크 모음](https://github.com/hyunjun/bookmarks) | 깃허브 레포 | 정체가 뭐지 싶은 온세상 북마크 정리 레포 |
 | [데보션](https://devocean.sk.com/blog/) | 기업기술블로그 | 요즘 IT보다 조금 더 기술적, 높은 퀄리티 |
 | [크라우드 웍스 블로그](https://medium.com/@cwp2) | 기업기술블로그 | 개인적으로 국내 AI SI 기업 중 가장 적당한 깊이 |
-| [잡코리아 기술블로그](https://techblog.jobkorea.co.kr/) | 기업기술블로그 | Agent 관련 글이 서베이 수준 |
+| [개인기술블로그(김성태님)](https://medium.com/@chris.seongtae) | 개인기술블로그 | Agent 관련 글이 서베이 수준 |
 | [고퀄리티 개발컨텐츠](https://github.com/Integerous/goQuality-dev-contents?tab=readme-ov-file) | 깃허브 레포 | 한국어 최대 기술 아카이브? 현재 업데이트는 안됨 |
 
 
